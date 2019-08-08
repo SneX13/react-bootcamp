@@ -1,7 +1,16 @@
 {
-  "main.css": "static/css/main.73779672.css",
-  "main.css.map": "static/css/main.73779672.css.map",
-  "main.js": "static/js/main.1cae2938.js",
-  "main.js.map": "static/js/main.1cae2938.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "files": {
+    "main.css": "/react-bootcamp/static/css/main.910b3802.chunk.css",
+    "main.js": "/react-bootcamp/static/js/main.7cc8fc8f.chunk.js",
+    "main.js.map": "/react-bootcamp/static/js/main.7cc8fc8f.chunk.js.map",
+    "runtime~main.js": "/react-bootcamp/static/js/runtime~main.52b29217.js",
+    "runtime~main.js.map": "/react-bootcamp/static/js/runtime~main.52b29217.js.map",
+    "static/js/2.7dd47fc0.chunk.js": "/react-bootcamp/static/js/2.7dd47fc0.chunk.js",
+    "static/js/2.7dd47fc0.chunk.js.map": "/react-bootcamp/static/js/2.7dd47fc0.chunk.js.map",
+    "index.html": "/react-bootcamp/index.html",
+    "precache-manifest.f2b24480ab7c72f1c0279f528c5b55bc.js": "/react-bootcamp/precache-manifest.f2b24480ab7c72f1c0279f528c5b55bc.js",
+    "service-worker.js": "/react-bootcamp/service-worker.js",
+    "static/css/main.910b3802.chunk.css.map": "/react-bootcamp/static/css/main.910b3802.chunk.css.map",
+    "static/media/logo.svg": "/react-bootcamp/static/media/logo.5d5d9eef.svg"
+  }
 }
