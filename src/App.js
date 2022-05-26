@@ -44,7 +44,7 @@ class ShowSlider extends Component {
                 {
                     var backDrop = 'http://image.tmdb.org/t/p/original' + movie.backdrop_path;
                     return (
-                        <div className='Item' style={{backgroundImage: 'url(' + backDrop + ')'}}></div>
+                        <div className='Item' style={{backgroundImage: 'url(' + backDrop + ')'}} key={i}></div>
                     )
                 }
             })
@@ -94,7 +94,7 @@ class App extends Component {
 
     render(){
         return (
-            <div>
+            <div className="flex-container">
                 <header className="Header">
 
                     <div id="search" className="Search">
